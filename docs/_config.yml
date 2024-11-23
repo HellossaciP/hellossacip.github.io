@@ -23,7 +23,7 @@ email: pablo.brochard@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My name is Pablo Brochard and this is my portfolio.
 domain: hellossacip.github.io
-baseurl: /hellossacip.github.io # the subpath of your site, e.g. /blog
+baseurl: / # the subpath of your site, e.g. /blog
 url: https://hellossacip.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HellossaciP
 github_username:  HellossaciP
